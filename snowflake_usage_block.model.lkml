@@ -11,7 +11,7 @@ datagroup: snowflake_usage_block_default_datagroup {
   max_cache_age: "1 hour"
 }
 
-persist_with: snowflake_usage_block_default_datagroup
+#persist_with: snowflake_usage_block_default_datagroup
 
 explore: login_history {
 #   join: user_login_facts {

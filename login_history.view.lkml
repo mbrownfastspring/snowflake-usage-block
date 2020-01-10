@@ -27,6 +27,7 @@ view: login_history {
     timeframes: [
       raw,
       time,
+      hour_of_day,
       date,
       day_of_month,
       day_of_week,
